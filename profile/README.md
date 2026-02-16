@@ -1,3 +1,5 @@
+<img width="1327" height="418" alt="Image" src="https://github.com/user-attachments/assets/6913dc9f-016c-4bf8-8908-39d6d1f9584e" />
+
 # 🚀 Fox Jet Studios
 
 We’re an game development studio on Roblox, driven by passion, innovation and quality gameplay. Our mission is to craft immersive experiences that players love and remember.
