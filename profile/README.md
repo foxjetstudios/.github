@@ -2,63 +2,66 @@
 
 # 🚀 Fox Jet Studios
 
-We’re an game development studio on Roblox, driven by passion, innovation and quality gameplay. Our mission is to craft immersive experiences that players love and remember.
+We are a game development studio on Roblox, powered by passion, creativity and fun. Our goal is to craft experiences that players love and remember. **Here** we share our open-source projects to help other developers bring their ideas to life.
 
 ---
 
-## 🎮 What We Build
+## 🎮 What We Make
 
-**Immersive Roblox experiences.**  
-Turning ideas into polished, fun and competitive Roblox games. Play our experiences and join the community.
+**Immersive Roblox Games**
+We turn ideas into polished, fun and competitive games. Jump in, play, and be part of our community.
 
-- Gameplay systems & mechanics
-- UI / UX game design
-- Community-focused game updates
-- Quality performance & optimization
+* Gameplay systems and mechanics
+* UI and UX game design
+* Community-focused updates
+* Smooth performance and optimization
 
----
+**Roblox Studio Plugins**
+Tools to help developers make better games faster
 
-## 💻 Tech & Tools We Use
-
-We build and create using modern tools:
-
-- Roblox Studio
-- Visual Studio Code
-- GitHub
-- Blender (for assets)
-- Figma (for UI/UX)
+**Roblox Avatar Items**
+Cool items for avatars that everyone can enjoy
 
 ---
 
-## 💼 Jobs
+## 💻 Tools We Love
 
-Apply for jobs at **Fox Jet Studios**  
-👉 https://foxjetstudios.com/jobs
+We create using the best tools for the job:
 
-We’re always looking for fresh talent whether you’re devs, builders, artists, designers or just someone that is passionate about games.
+* [Roblox Studio](https://create.roblox.com/docs/studio/setup)
+* [Visual Studio Code](https://code.visualstudio.com/Download)
+* GitHub
+* [Blender](https://www.blender.org/download) (for 3D assets)
+* [Figma](https://www.figma.com/downloads) (for UI, UX and design)
+
+---
+
+## 💼 Careers
+
+Want to join the team? Check out opportunities at **Fox Jet Studios**
+👉 [foxjetstudios.com/jobs](https://foxjetstudios.com/jobs)
 
 ---
 
 ## 🌍 About Us
 
-Fox Jet Studios was officially founded on **August 6th, 2023**. Our team brings a worldwide perspective with a united vision: unleash creativity, solve challenges and deliver outstanding gaming experiences.
-
-Our mission is to inspire and connect players with incredible games while fostering a fun and safe environment.
-
----
-
-## 📬 Contact & Support
-
-- 📧 General: contact@foxjetstudios.com  
-- 🤝 Partnerships: partnerships@foxjetstudios.com
+Fox Jet Studios started on **August 6th, 2023**.
+Our goal is to craft immersive, high-quality games that players love, while building a strong and amazing community around Fox Jet Studios.
 
 ---
 
-## 🔗 Links
+## 📬 Contact Us
 
-- [📜 About us](https://foxjetstudios.com/aboutus)
-- [⭐ Roblox Community](https://www.roblox.com/communities/32669134/Fox-Jet-Studios#!/about)
-- [💬 Discord Community Server](https://discord.foxjetstudios.com)
+* 📧 General: [contact@foxjetstudios.com](mailto:contact@foxjetstudios.com)
+* 🤝 Partnerships: [partnerships@foxjetstudios.com](mailto:partnerships@foxjetstudios.com)
+
+---
+
+## 🔗 Quick Links
+
+* [📜 About us](https://foxjetstudios.com/aboutus)
+* [⭐ Roblox Community](https://www.roblox.com/communities/32669134/Fox-Jet-Studios#!/about)
+* [💬 Discord Server](https://discord.foxjetstudios.com)
 
 ---
 
