@@ -2,7 +2,8 @@
 
 # 🚀 Fox Jet Studios
 
-We are a game development studio on Roblox, powered by passion, creativity and fun. Our goal is to craft experiences that players love and remember. **Here** we share our open-source projects to help other developers bring their ideas to life.
+We are a game development studio on Roblox, powered by passion, creativity and fun. Our goal is to craft experiences that players love and remember. 
+**Here** we share our open-source projects and tools to help other developers bring their ideas to life faster.
 
 ---
 
@@ -10,7 +11,7 @@ We are a game development studio on Roblox, powered by passion, creativity and f
 
 ### **Roblox Games**
 
-We turn ideas into polished, fun and competitive games. Jump in, play, and be part of our amazing and growing community. 
+We turn ideas into polished, fun and competitive games.
 
 ### **Roblox Studio Plugins**
 
@@ -22,7 +23,7 @@ Cool items for avatars that everyone can enjoy
 
 ### **Open-sourced systems**
 
-Open-sourced systems anyone can use, learn from, and build on
+Open-sourced systems and tools anyone can use, learn from, and build on.
 
 ---
 
