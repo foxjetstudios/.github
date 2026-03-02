@@ -33,13 +33,13 @@ We create using the best tools for the job:
 
 * [Roblox Studio](https://create.roblox.com/docs/studio/setup)
 * [Visual Studio Code](https://code.visualstudio.com/Download)
-* GitHub < ur here
+* GitHub < ur here (˶ᵔ ᵕ ᵔ˶)
 * [Blender](https://www.blender.org/download) (for 3D assets)
 * [Figma](https://www.figma.com/downloads) (for UI, UX and design)
 
 ---
 
-## 💼 Careers
+## 🌟 Careers
 
 Want to join the team? Check out opportunities at **Fox Jet Studios**
 
@@ -55,18 +55,18 @@ Our goal is to craft immersive, high-quality games that players love, while buil
 
 ---
 
-## 📬 Contact Us
+## 💬 Contact Us
 
-* 📧 General: [contact@foxjetstudios.com](mailto:contact@foxjetstudios.com)
-* 🤝 Partnerships: [partnerships@foxjetstudios.com](mailto:partnerships@foxjetstudios.com)
+* [General](mailto:contact@foxjetstudios.com)
+* [Partnerships](mailto:partnerships@foxjetstudios.com)
 
 ---
 
 ## 🔗 Quick Links
 
-* [📜 About us](https://foxjetstudios.com/aboutus)
-* [⭐ Roblox Community](https://www.roblox.com/communities/32669134/Fox-Jet-Studios#!/about)
-* [💬 Discord Server](https://discord.foxjetstudios.com)
+* [About Us](https://foxjetstudios.com/aboutus)
+* [Roblox Community](https://www.roblox.com/communities/32669134/Fox-Jet-Studios#!/about)
+* [Discord Server](https://discord.foxjetstudios.com)
 
 ---
 
