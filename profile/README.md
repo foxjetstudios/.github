@@ -1,7 +1,6 @@
-<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/aad731ff-7c2f-426d-ac99-1dfa52ce43a6" />
+<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/3a50725f-a64f-4ac9-8e7c-f14aa995c181" />
 
 # Fox Jet Studios
-
 We are a game development studio on Roblox.
 Here we share our open-source projects and tools to help other developers bring their cool ideas to life faster.
 
