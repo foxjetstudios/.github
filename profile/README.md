@@ -1,4 +1,4 @@
-<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/3a50725f-a64f-4ac9-8e7c-f14aa995c181" />
+<img width="1500" height="500" alt="image" src="https://cdn.foxjetstudios.com/assets/fjs_thumbnail.webp" />
 
 # Fox Jet Studios
 We are a game development studio on Roblox.
